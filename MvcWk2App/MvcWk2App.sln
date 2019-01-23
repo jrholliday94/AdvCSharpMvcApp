@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcWk2App", "MvcWk2App\MvcWk2App.csproj", "{2264A072-A395-4DFE-8B0A-10A202C8F11D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcWk2App.Shared", "MvcWk2App.Shared\MvcWk2App.Shared.csproj", "{2339460E-D968-45EE-85BF-8AE1D36134ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2264A072-A395-4DFE-8B0A-10A202C8F11D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2264A072-A395-4DFE-8B0A-10A202C8F11D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2264A072-A395-4DFE-8B0A-10A202C8F11D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2264A072-A395-4DFE-8B0A-10A202C8F11D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2339460E-D968-45EE-85BF-8AE1D36134ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2339460E-D968-45EE-85BF-8AE1D36134ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2339460E-D968-45EE-85BF-8AE1D36134ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2339460E-D968-45EE-85BF-8AE1D36134ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D20531A-EFE3-45D0-871B-E566ABD592F2}
+	EndGlobalSection
+EndGlobal

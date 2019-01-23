@@ -1,0 +1,49 @@
+﻿@model MvcWk2App.Models.GroupModel
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+
+<body>
+    <div>
+        Index page
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Students[1].FullName)
+        @Html.DropDownListFor(m => m.Students, new SelectList(Model.Students, "FullName", "FullName"))
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Students[1].FName)
+        @Html.DropDownListFor(m => m.Students, new SelectList(Model.Students, "FName", "FName"))
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Students[1].LName)
+        @Html.DropDownListFor(m => m.Students, new SelectList(Model.Students, "LName", "LName"))
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Students[1].Gender)
+        @Html.DropDownListFor(m => m.Students, new SelectList(Model.Students, "Gender", "Gender"))
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Students[1].Age)
+        @Html.DropDownListFor(m => m.Students, new SelectList(Model.Students, "Age", "Age"))
+    </div>
+
+    <div>
+        @Html.LabelFor(m => m.Students[1].Major)
+        @Html.DropDownListFor(m => m.Students, new SelectList(Model.Students, "Major", "Major"))
+    </div>
+
+
+</body>
+
+</html>
