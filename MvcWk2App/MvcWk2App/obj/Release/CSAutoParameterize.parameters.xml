@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="GameContext-Web.config Connection String" description="GameContext Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:jared-holliday.database.windows.net,1433;Initial Catalog=CIS174Spring2019;          &#xD;&#xA;         Persist Security Info=False;User ID=jrholliday;Password=DMACC2019!;MultipleActiveResultSets=False;          &#xD;&#xA;         Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\ragna\\source\\repos\\MvcWk2App\\MvcWk2App\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='GameContext']/@connectionString" />
+  </parameter>
+</parameters>

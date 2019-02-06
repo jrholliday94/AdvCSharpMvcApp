@@ -1,0 +1,12 @@
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Shared\bin\Release\MvcWk2App.Shared.dll.config
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Shared\bin\Release\MvcWk2App.Shared.dll
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Shared\bin\Release\MvcWk2App.Shared.pdb
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Shared\bin\Release\EntityFramework.dll
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Shared\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Shared\bin\Release\EntityFramework.xml
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Shared\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Shared\obj\Release\MvcWk2App.Shared.csprojAssemblyReference.cache
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Shared\obj\Release\MvcWk2App.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Shared\obj\Release\MvcWk2App.Shared.csproj.CopyComplete
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Shared\obj\Release\MvcWk2App.Shared.dll
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Shared\obj\Release\MvcWk2App.Shared.pdb

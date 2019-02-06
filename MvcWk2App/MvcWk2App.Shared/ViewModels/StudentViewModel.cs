@@ -9,13 +9,6 @@ namespace MvcWk2App.Shared.ViewModels
         public int Age { get; set; }
         public string Major { get; set; }
         public GenderEnum Gender { get; set; }
-        public string FullName
-        {
-            get
-            {
-                return this.FName + " " + this.LName;
-            }
-        }
         
     }
 }

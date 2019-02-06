@@ -1,0 +1,14 @@
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Domain\bin\Debug\MvcWk2App.Domain.dll.config
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Domain\bin\Debug\MvcWk2App.Domain.dll
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Domain\bin\Debug\MvcWk2App.Domain.pdb
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Domain\bin\Debug\EntityFramework.dll
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Domain\bin\Debug\EntityFramework.xml
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Domain\obj\Debug\MvcWk2App.Domain.csprojAssemblyReference.cache
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Domain\obj\Debug\MvcWk2App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Domain\obj\Debug\MvcWk2App.Domain.csproj.CopyComplete
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Domain\obj\Debug\MvcWk2App.Domain.dll
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Domain\obj\Debug\MvcWk2App.Domain.pdb
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Domain\obj\Debug\MvcWk2App.Domain.Migrations.InitializingDatabaseWithGames.resources
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Domain\obj\Debug\MvcWk2App.Domain.csproj.GenerateResource.cache

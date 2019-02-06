@@ -4,3 +4,9 @@ C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Shared\obj\Debug\MvcWk2App.Share
 C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Shared\obj\Debug\MvcWk2App.Shared.csproj.CoreCompileInputs.cache
 C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Shared\obj\Debug\MvcWk2App.Shared.dll
 C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Shared\obj\Debug\MvcWk2App.Shared.pdb
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Shared\bin\Debug\MvcWk2App.Shared.dll.config
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Shared\bin\Debug\EntityFramework.dll
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Shared\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Shared\bin\Debug\EntityFramework.xml
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Shared\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ragna\source\repos\MvcWk2App\MvcWk2App.Shared\obj\Debug\MvcWk2App.Shared.csproj.CopyComplete
